@@ -1,2 +1,0 @@
-# kochSnowflake
-Created with CodeSandbox
